@@ -16,7 +16,7 @@ Pod::Spec.new do |s|
   #
 
   s.name         = "PSICommonUtils"
-  s.version      = "0.0.3"
+  s.version      = "0.0.4"
   s.summary      = "Common helpers for iOS app"
 
   # This description is used to generate tags and improve search results.
