@@ -45,7 +45,7 @@
 }
 
 + (void)showAlertViewWithTitle:(NSString *)title message:(NSString *)message {
-    [PSIAlertHelper showAlertViewWithTitle:title message:message];
+    [[[UIAlertView alloc] initWithTitle:title message:message delegate:nil cancelButtonTitle:NSLocalizedString(@"OK", nil) otherButtonTitles:nil, nil] show];
 }
 
 @end
