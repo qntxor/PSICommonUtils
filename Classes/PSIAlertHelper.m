@@ -1,9 +1,4 @@
-//
-//  AlertHelper.m
-//
-//  Created by Сергей Першиков on 08.01.16.
-//  Copyright © 2016. All rights reserved.
-//
+
 
 #import "PSIAlertHelper.h"
 

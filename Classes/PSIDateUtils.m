@@ -1,10 +1,3 @@
-//
-//  PSIDateUtils.m
-//  Pods
-//
-//  Created by Сергей Першиков on 31.10.16.
-//
-//
 
 #import "PSIDateUtils.h"
 #define QXFORMAT_DATE "dd.MM.yyyy"

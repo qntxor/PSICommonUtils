@@ -1,10 +1,4 @@
-//
-//  PSIDisignContext.m
-//  Pods
-//
-//  Created by Сергей Першиков on 31.10.16.
-//
-//
+
 
 #import "PSIDisignContext.h"
 

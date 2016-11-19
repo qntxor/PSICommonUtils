@@ -1,10 +1,4 @@
-//
-//  PSIDisignContext.h
-//  Pods
-//
-//  Created by Сергей Першиков on 31.10.16.
-//
-//
+
 
 #import <Foundation/Foundation.h>
 #import <UIKit/UIKit.h>
